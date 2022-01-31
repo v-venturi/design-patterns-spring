@@ -7,7 +7,7 @@ API desenvolvida com cadastro de clientes e consulta de CEP usando API externa "
 
 This project was developed with:
 
-* **Java 17 LTS  2021-09-14 (versão 11 no deploy do Heroku devido à incompatibilidade)**
+* **Java 17 LTS  2021-09-14**
 * **Spring Boot 2.6.2**
 * **Spring DATA-JPA 2.6.2**
 * **Spring Doc Open-API 3.0.0 (Swagger)**
@@ -27,3 +27,7 @@ mvn spring-boot:run
 Deploy no Heroku https://design-patterns-spring.herokuapp.com/clientes/
 
 * **Swagger** https://design-patterns-spring.herokuapp.com/swagger-ui/index.html
+
+
+
+
