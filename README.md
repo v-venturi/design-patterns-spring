@@ -24,4 +24,6 @@ mvn spring-boot:run
 
 ### Testar a API
 
-* **Swagger** http://localhost:8080/swagger-ui/
+Deploy no Heroku https://design-patterns-spring.herokuapp.com/clientes/
+
+* **Swagger** https://design-patterns-spring.herokuapp.com/swagger-ui/index.html
